@@ -1,0 +1,44 @@
+.box{
+    width: 1110px;
+    height: 672px;
+    border:1px solid black;
+    background-image: url("../img/fon.png");
+    position: relative;
+    }
+    div{
+    display:block;
+    }
+    .bel1{
+    position: absolute;
+    left:0px;
+    top:370px;
+    
+    }
+    .oblako{
+    position: absolute;
+    left:221px ;
+    top:409px ;
+    }
+    .text{
+    left:265px ;
+    top:416px ;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 24px;
+    position: absolute;
+    }
+    .k1{
+    position: absolute;
+    left: 264px ;
+    top: 46px;
+    }
+    .k2{
+    position: absolute;
+    left: 529px ;
+    top: 145px;
+    } 
+    .k3{
+    position: absolute;
+    left:276px ;
+    top: 198px;
+    }
